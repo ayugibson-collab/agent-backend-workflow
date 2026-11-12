@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 后端工作流"
+  short_description: "管理聊天 Agent 的需求、后端开发、自研 Harness、模型接入与评测"
+  default_prompt: "使用 $agent-backend-workflow，基于当前项目处理这次 Agent 后端需求，完成授权范围内的文档、开发和验证。"
